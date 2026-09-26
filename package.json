@@ -1,0 +1,12 @@
+{
+  "name": "kickbase-hero-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lokaler Kickbase Advisor mit nativer Node.js Laufzeit",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
